@@ -1,2 +1,2 @@
 Rigel is a refactored version of the UCSB Experimental Cosmology Group's TRIPP pipeline. In its current state, it only contains the photometry portion of that pipeline with the image subtraction component to be added later. 
-The pipeline intakes a directory containing FITS files from the Los Cumbres Observatory Global Telescope Network and returns an output file containing transient candidates based on user constraints. 
+The pipeline intakes a directory containing FITS files from the Las Cumbres Observatory Global Telescope Network and returns an output file containing transient candidates based on user constraints. 
